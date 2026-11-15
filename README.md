@@ -71,6 +71,38 @@ Exploring AI & Software Development
 ---
 
 ## 🤝 Connect With Me
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivomgupta3518m-cmd&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivomgupta3518m-cmd&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivomgupta3518m-cmd&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shivomgupta3518m-cmd&color=blue&style=flat-square" />
+</p>
 
 - 📧 Email: shivomgupta3518m@gmail.com
 - 💻 GitHub: [@shivomgupta3518m-cmd](https://github.com/shivomgupta3518m-cmd)
