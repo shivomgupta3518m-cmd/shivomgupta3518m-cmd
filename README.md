@@ -74,6 +74,7 @@ Exploring AI & Software Development
 
 - 📧 Email: shivomgupta3518m@gmail.com
 - 💻 GitHub: [@shivomgupta3518m-cmd](https://github.com/shivomgupta3518m-cmd)
+- LinkedIn:https://www.linkedin.com/in/shivom-gupta-/
 
 ---
 
