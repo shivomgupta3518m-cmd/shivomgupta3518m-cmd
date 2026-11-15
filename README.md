@@ -81,29 +81,6 @@ Exploring AI & Software Development
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivomgupta3518m-cmd&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivomgupta3518m-cmd&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivomgupta3518m-cmd&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shivomgupta3518m-cmd&color=blue&style=flat-square" />
-</p>
-
 ## 🤝 Connect With Me
 
 - 📧 Email: shivomgupta3518m@gmail.com
