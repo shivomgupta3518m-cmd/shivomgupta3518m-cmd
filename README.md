@@ -70,7 +70,7 @@ Exploring AI & Software Development
 
 ---
 
-## 🤝 Connect With Me
+
 ---
 
 ## 💻 Tech Stack
@@ -104,9 +104,12 @@ Exploring AI & Software Development
   <img src="https://komarev.com/ghpvc/?username=shivomgupta3518m-cmd&color=blue&style=flat-square" />
 </p>
 
+## 🤝 Connect With Me
+
 - 📧 Email: shivomgupta3518m@gmail.com
 - 💻 GitHub: [@shivomgupta3518m-cmd](https://github.com/shivomgupta3518m-cmd)
 - LinkedIn:https://www.linkedin.com/in/shivom-gupta-/
+- LeetCode :https://leetcode.com/u/shivomgupta/
 
 ---
 
